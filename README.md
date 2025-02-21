@@ -29,7 +29,7 @@ A tool for verifying database connections.
 
 1. Clone the repository: `git clone https://github.com/amoghsaxena/dburl-verify.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
-3. Run the Streamlit application: `streamlit run main.py`
+3. Run the Streamlit application: `streamlit run db-verify-main.py`
 4. Select the database type and input the connection settings
 5. Click "Verify" to test the connection
 
